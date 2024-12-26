@@ -1,2 +1,3 @@
 # Python
 这里放了一些Python的学习案例
+大部分项目来自于b站Python入门的网课
